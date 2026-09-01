@@ -16,7 +16,7 @@ Welcome to my GitHub! I am passionate about bridging the gap between low-level s
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 
 **Frontend & Backend:**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
@@ -30,15 +30,15 @@ Welcome to my GitHub! I am passionate about bridging the gap between low-level s
 
 *   **SemiDisPred:** A computational biology framework for predicting semi-disordered protein regions using MMseqs2 homology clustering and LightGBM models.
 *   **Weather MLOps Pipeline:** A scalable weather forecasting API utilizing a Lasso regression model, built with FastAPI, Redis caching, Docker, Kubernetes HPA, and monitored via Prometheus and Grafana.
-*   **FirstScoop & CatType:** Full-stack web applications. FirstScoop automates campus dining menu delivery via the Mailgrid API, while CatType is a real-time serverless typing application integrated with REST APIs.
+*   **FirstScoop:** An event-driven, single-function serverless pipeline deployed on AWS Lambda. It performs stateless multi-stage web scraping against a live Nutritics menu platform, transforms raw HTML into structured nutritional data, renders a server-side HTML artifact, and atomically publishes it to S3 for static hosting—all within a single synchronous execution frame triggered on a schedule.
+*   **CatType:** A real-time serverless web-based typing application featuring performance metrics and integrated with JSON REST APIs for leaderboard data persistence.
 *   **Defend the Lab:** An interactive multi-client WebSocket kiosk game powered by a Node.js/Express backend and a Flask endpoint running a MobileNetV2 digit recognition model.
 
 ---
 
 ### 📊 GitHub Stats
 
-<!-- These will automatically update with your actual GitHub stats! -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeTanPhuc-01&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeTanPhuc-01&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
