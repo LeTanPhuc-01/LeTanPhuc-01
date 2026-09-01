@@ -17,7 +17,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=LeTanPhuc-01&show_icons=true&theme=radical
+          options: username=LeTanPhuc-01&show_icons=true&theme=radical&hide_rank=true
           
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
