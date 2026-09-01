@@ -1,15 +1,14 @@
 # Hi there, I'm Tan Phuc Le 👋
 
-**Computer Science Student @ University of New Orleans | Researcher | Full-Stack & ML Developer**
+**Computer Science Student @ LSU New Orleans | Researcher | Full-Stack & ML Developer**
 
-Welcome to my GitHub! I am passionate about bridging the gap between low-level systems, scalable web applications, and machine learning operations. 
-
+Welcome to my GitHub! I am an aspiring Software Engineer with a strong background in research. I love working with cloud infrastructure and building scalable systems that bridge the gap between complex data operations and web applications.
 ### 🚀 About Me
 
-- 🎓 Pursuing a B.S. in Computer Science (Expected Fall 2027), with plans to pursue a Ph.D.
+- 🎓 Pursuing a B.S. in Computer Science (Expected Fall 2027)
 - 🔬 Currently working as an Undergraduate Research Assistant at **GulfSCEI**, focusing on wave simulation modeling and computational biology.
-- ☁️ **AWS Certified AI Practitioner**
-- 💡 Actively exploring MLOps, deep learning (Fourier Neural Operators, LightGBM), and distributed systems.
+- ☁️ **AWS Certified Solution Architect, AWS Certified AI Practitioner**
+- 💡 Actively exploring MLOps, deep learning, and distributed systems.
 
 ---
 
